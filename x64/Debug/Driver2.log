@@ -1,0 +1,19 @@
+﻿  Building 'Driver2' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\Driver2.inf
+  Stamping [Version] section with DriverVer=11/23/2020,2.29.6.164
+  Driver2.vcxproj -> D:\УНИК\5 сем\OSnSP\5\1\Driver1\x64\Debug\Driver2.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\УНИК\5 сем\OSnSP\5\1\Driver1\x64\Debug\Driver2\driver2.cat
+  Done Adding Additional Store
+  Successfully signed: D:\\5 \OSnSP\5\1\Driver1\x64\Debug\Driver2\driver2.cat
+  
